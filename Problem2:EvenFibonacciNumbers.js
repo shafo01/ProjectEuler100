@@ -11,7 +11,7 @@
  * not exceed the nth term, find the sum of the even-valued 
  * terms.
  
- **TODO: Where does not exceed 4,000,000 term
+ **TODO: Where does not exceed 4,000,000 terms
   */
 
 
