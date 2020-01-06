@@ -12,13 +12,9 @@ function largestPrimeFactor(number) {
   if(number === 2){
     return 2;
   }
-
-  if(number <= 1){
-    return false;
-  }
-
-//if composite number
-  if(number % 2 === 0){
+//1 or less or
+// if composite number
+  if(number <= 1 || number % 2 === 0){
     return false;
   }
 
